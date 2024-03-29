@@ -1,14 +1,14 @@
 //
-//  bluetooth_testApp.swift
-//  bluetooth_test
+//  core_bluetoothApp.swift
+//  core-bluetooth
 //
-//  Created by Scott Susanto on 3/28/24.
+//  Created by Andrew on 2022-07-14.
 //
 
 import SwiftUI
 
 @main
-struct bluetooth_testApp: App {
+struct core_bluetoothApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
